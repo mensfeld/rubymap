@@ -69,3 +69,8 @@
   url: https://www.consonance.app
   locations:
     - address: 55 High St, Thame, OX9 3BH, UK
+- name: KRUG (Kraków Ruby Users Group)
+  type: meetup
+  url: http://krug.org.pl/
+  locations:
+    - address: Cracow, PL
